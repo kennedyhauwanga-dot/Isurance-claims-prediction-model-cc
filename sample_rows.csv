@@ -1,0 +1,51 @@
+age,gender,marital_status,employment_status,income_level,education_level,policy_type,policy_duration_years,premium_amount,vehicle_type,vehicle_age,vehicle_value,engine_capacity,vehicle_usage,region,urban_rural,prior_claims,prior_claim_amount,years_driving,annual_mileage,traffic_violations,credit_score,home_ownership,has_telematics,telematics_score,age_group,vehicle_age_group
+25,Female,Single,Employed,High,Secondary,Third Party Fire and Theft,3,8712.70312974858,Hatchback,1,123150.94,1334,Mixed,Other,Rural,1,8412.97,7,14033,0,552,Own,1,59.61,21-30,0-3
+63,Female,Single,Self-employed,Low,Diploma,Third Party,5,7005.437986944907,SUV,5,148656.56,4181,Private,Other,Rural,2,12798.54,45,24679,1,643,Other,1,51.3,61+,4-7
+57,Female,Married,Unemployed,High,Diploma,Third Party Fire and Theft,9,7102.832355229214,Van,11,129999.29,1274,Private,Otjozondjupa,Urban,1,7842.11,39,20033,1,634,Rent,0,53.55,51-60,8-12
+45,Female,Single,Employed,Medium,Secondary,Third Party,7,10932.57564039518,Truck,6,182856.05,2744,Private,Erongo,Urban,1,4620.63,27,19323,0,566,Rent,1,59.6,41-50,4-7
+44,Female,Single,Self-employed,High,Postgraduate,Third Party,7,15511.6660758244,Van,2,202429.43,1162,Business,Khomas,Urban,1,8881.23,26,8801,3,694,Other,0,59.68,41-50,0-3
+68,Male,Widowed,Employed,Medium,Diploma,Comprehensive,6,9059.326434312723,SUV,15,287105.48,1279,Mixed,Oshana,Urban,1,5757.67,50,14760,1,717,Other,0,89.43,61+,13+
+25,Female,Divorced,Employed,Medium,Postgraduate,Comprehensive,5,10394.91233814831,Sedan,3,202359.75,2884,Business,Otjozondjupa,Urban,0,0.0,7,13184,1,731,Own,0,56.13,21-30,0-3
+59,Male,Married,Employed,High,Postgraduate,Third Party Fire and Theft,4,8139.995204271249,Sedan,1,209119.96,2233,Private,Other,Rural,1,8235.37,41,11415,2,544,Own,1,49.57,51-60,0-3
+32,Female,Widowed,Employed,Low,Postgraduate,Comprehensive,7,9404.35069569008,Hatchback,6,252282.16,3704,Business,Erongo,Urban,0,0.0,14,30671,2,580,Own,1,67.98,31-40,4-7
+26,Male,Widowed,Employed,High,Postgraduate,Third Party Fire and Theft,9,9752.48652774344,Hatchback,1,207285.17,2212,Mixed,Other,Urban,1,11067.73,8,17966,0,583,Rent,1,45.09,21-30,0-3
+49,Female,Married,Employed,Low,Diploma,Comprehensive,4,7400.295945571375,Sedan,9,259501.17,3948,Mixed,Erongo,Urban,1,6092.31,31,17691,0,671,Own,1,67.7,41-50,8-12
+74,Female,Widowed,Self-employed,Low,Postgraduate,Third Party,4,12083.51796033121,Van,6,251246.98,2123,Private,Oshana,Rural,0,0.0,56,17184,1,558,Rent,0,84.28,61+,4-7
+61,Female,Married,Employed,Medium,Secondary,Third Party,5,10230.43806710509,Hatchback,14,262221.54,1096,Private,Erongo,Rural,1,8818.7,43,10114,0,689,Other,1,52.22,61+,13+
+62,Male,Single,Self-employed,High,Postgraduate,Third Party,9,5926.155848239385,Truck,2,136456.25,3137,Mixed,Khomas,Rural,1,11362.68,44,18942,0,774,Own,1,58.8,61+,0-3
+60,Female,Divorced,Employed,Low,Postgraduate,Third Party,1,11792.13414775585,Hatchback,4,188130.18,2468,Mixed,Oshana,Urban,0,0.0,42,21583,1,595,Rent,1,56.68,51-60,4-7
+64,Male,Single,Employed,High,Degree,Third Party,9,7862.648492249834,Van,10,123113.71,3475,Business,Otjozondjupa,Rural,0,0.0,46,11461,0,604,Own,0,74.46,61+,8-12
+49,Female,Single,Unemployed,Low,Secondary,Third Party Fire and Theft,9,6988.218406389894,Van,11,178407.36,4001,Private,Otjozondjupa,Urban,1,6254.24,31,14478,0,618,Own,0,58.18,41-50,8-12
+28,Male,Single,Unemployed,Medium,Secondary,Third Party Fire and Theft,7,8106.788661809559,Van,5,318672.43,3651,Business,Oshana,Rural,1,5190.7,10,11994,0,717,Other,1,80.64,21-30,4-7
+67,Male,Widowed,Self-employed,Medium,Postgraduate,Third Party,10,11837.73104053031,SUV,14,180342.76,1368,Mixed,Oshana,Urban,0,0.0,49,13808,0,592,Own,1,75.38,61+,13+
+45,Female,Widowed,Employed,High,Postgraduate,Third Party,2,8643.467027542236,SUV,13,161348.57,1667,Business,Otjozondjupa,Urban,1,11890.63,27,19210,1,714,Rent,1,78.25,41-50,13+
+48,Female,Widowed,Employed,Medium,Postgraduate,Comprehensive,2,9778.851775609233,SUV,9,301798.7,2077,Mixed,Other,Rural,0,0.0,30,20651,1,679,Own,1,74.29,41-50,8-12
+41,Female,Married,Self-employed,Medium,Postgraduate,Third Party Fire and Theft,3,8953.232774577395,Sedan,11,132128.76,2929,Private,Erongo,Urban,0,0.0,23,15801,1,658,Own,0,88.58,41-50,8-12
+31,Female,Single,Employed,Medium,Degree,Third Party,9,8365.019810251051,SUV,8,123712.83,4156,Private,Otjozondjupa,Urban,0,0.0,13,11937,0,605,Rent,1,74.95,31-40,8-12
+71,Male,Single,Employed,Medium,Degree,Third Party Fire and Theft,1,9849.934718787956,Truck,7,284720.06,1594,Mixed,Otjozondjupa,Urban,1,10723.48,53,22447,0,660,Other,1,88.99,61+,4-7
+63,Male,Divorced,Employed,Medium,Postgraduate,Comprehensive,8,7976.477901716181,Sedan,8,246100.38,4233,Private,Other,Rural,1,5877.92,45,14195,1,567,Other,1,89.49,61+,8-12
+56,Male,Widowed,Retired,Low,Postgraduate,Third Party Fire and Theft,9,11591.01040335071,Truck,13,336923.74,2516,Mixed,Otjozondjupa,Rural,1,6970.52,38,20226,0,695,Other,1,64.48,51-60,13+
+43,Male,Single,Employed,Medium,Degree,Third Party,8,10001.41349211176,Van,0,234740.51,3250,Business,Erongo,Urban,0,0.0,25,17127,2,597,Other,0,81.44,41-50,0-3
+66,Male,Married,Employed,Medium,Degree,Comprehensive,9,7061.769200032401,Truck,1,207457.72,2896,Business,Other,Urban,1,10011.29,48,14541,0,694,Own,1,58.98,61+,0-3
+50,Female,Widowed,Employed,Medium,Degree,Third Party,1,11180.32859335067,Van,7,146998.9,2332,Business,Khomas,Rural,0,0.0,32,14938,0,669,Other,1,66.39,41-50,4-7
+45,Male,Single,Unemployed,High,Postgraduate,Comprehensive,10,10008.52542927058,Sedan,9,188068.13,3826,Business,Erongo,Urban,2,20017.31,27,14007,1,744,Rent,1,80.94,41-50,8-12
+45,Male,Single,Employed,Medium,Secondary,Third Party,3,8569.508583499617,Sedan,2,229048.09,4111,Mixed,Oshana,Urban,2,17041.3,27,13724,0,555,Own,0,56.99,41-50,0-3
+33,Female,Single,Employed,Low,Diploma,Third Party,10,8124.987707061277,Van,9,260489.55,3611,Mixed,Khomas,Rural,1,4777.79,15,8539,1,594,Other,0,81.99,31-40,8-12
+26,Male,Widowed,Unemployed,Low,Secondary,Comprehensive,1,5374.242872783979,Hatchback,0,170171.23,2124,Private,Oshana,Urban,1,10076.15,8,17967,0,701,Other,1,65.32,21-30,0-3
+51,Male,Widowed,Employed,Medium,Degree,Third Party,7,6168.425332527878,Hatchback,3,298043.92,3571,Mixed,Erongo,Rural,0,0.0,33,11838,0,617,Other,1,62.73,51-60,0-3
+69,Female,Single,Employed,Medium,Secondary,Third Party Fire and Theft,5,8166.694286081392,Truck,7,235933.32,1689,Business,Oshana,Urban,0,0.0,51,24682,0,630,Own,0,58.37,61+,4-7
+24,Female,Single,Employed,Medium,Postgraduate,Third Party,10,7018.623321589087,SUV,0,291087.56,2351,Mixed,Erongo,Urban,0,0.0,6,13960,0,710,Own,1,52.76,21-30,0-3
+68,Male,Widowed,Employed,Medium,Secondary,Third Party,3,10721.60462739247,Hatchback,10,238166.73,2770,Private,Erongo,Rural,0,0.0,50,16203,2,658,Other,1,79.16,61+,8-12
+66,Female,Widowed,Employed,High,Secondary,Third Party Fire and Theft,8,5683.425499582274,Truck,8,292608.93,2904,Business,Khomas,Rural,0,0.0,48,15925,1,685,Other,0,85.18,61+,8-12
+36,Female,Single,Self-employed,Low,Postgraduate,Third Party,7,14035.73811459317,Hatchback,9,261070.8,2810,Mixed,Oshana,Urban,1,5571.7,18,11491,0,666,Rent,1,94.91,31-40,8-12
+55,Female,Widowed,Retired,High,Diploma,Third Party,10,11446.6644958819,Hatchback,8,324297.03,1049,Business,Erongo,Rural,0,0.0,37,12563,2,607,Own,1,76.32,51-60,8-12
+30,Male,Married,Employed,High,Diploma,Third Party Fire and Theft,9,9729.235769128682,Van,11,297306.19,3894,Private,Otjozondjupa,Rural,2,20750.03,12,27159,0,710,Own,1,83.46,21-30,8-12
+62,Female,Widowed,Employed,Medium,Postgraduate,Third Party,8,6905.963812974556,SUV,10,231754.11,2250,Mixed,Otjozondjupa,Urban,0,0.0,44,24726,1,645,Own,1,61.88,61+,8-12
+59,Male,Single,Employed,High,Degree,Third Party Fire and Theft,1,11422.50247517049,Sedan,10,178609.48,1065,Private,Otjozondjupa,Rural,1,13075.3,41,11280,0,590,Own,1,70.08,51-60,8-12
+40,Female,Widowed,Employed,Low,Postgraduate,Comprehensive,8,11267.14740084204,Van,3,68223.69,4174,Business,Otjozondjupa,Urban,0,0.0,22,11432,0,522,Rent,1,76.81,31-40,0-3
+24,Female,Divorced,Employed,Medium,Degree,Comprehensive,7,13117.80182015126,Hatchback,10,175891.82,3970,Business,Other,Urban,0,0.0,6,16736,0,683,Own,1,99.88,21-30,8-12
+74,Male,Single,Employed,Low,Postgraduate,Comprehensive,5,6466.980660101162,Sedan,2,253041.48,3216,Private,Oshana,Urban,1,9624.56,56,9475,0,715,Rent,0,65.23,61+,0-3
+45,Female,Single,Unemployed,High,Secondary,Third Party Fire and Theft,8,10140.16358370137,Hatchback,0,192623.98,2216,Business,Otjozondjupa,Urban,1,5349.43,27,11483,0,584,Other,0,44.07,41-50,0-3
+70,Female,Single,Employed,Low,Degree,Third Party,7,6859.851331283623,Hatchback,15,188387.86,2956,Mixed,Other,Urban,0,0.0,52,23845,0,597,Rent,0,51.93,61+,13+
+58,Female,Single,Employed,High,Postgraduate,Third Party,9,6908.387529835676,Truck,2,248002.1,1756,Private,Other,Rural,1,11810.87,40,13653,2,591,Rent,1,90.63,51-60,0-3
+63,Male,Widowed,Retired,Low,Secondary,Third Party,8,8351.997334488182,Sedan,1,386379.28,1961,Mixed,Erongo,Urban,1,8248.95,45,20579,0,646,Rent,1,66.62,61+,0-3
